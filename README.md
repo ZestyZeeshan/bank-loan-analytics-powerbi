@@ -75,9 +75,8 @@ The Summary Dashboard provides an executive overview of the loan portfolio using
 
 ### Preview
 
-![Summary Dashboard](Images/dashboard-summary.png)
+<img width="1907" height="1198" alt="Summary Dashboard" src="https://github.com/user-attachments/assets/e06bc847-c84e-4868-b9cf-6188eaadbaae" />
 
----
 
 ## 2️⃣ Overview Dashboard
 
@@ -93,11 +92,6 @@ The Overview Dashboard focuses on business analysis through interactive visualiz
 - Home Ownership Analysis
 - Dynamic Field Parameters
 
-### Preview
-
-![Overview Dashboard](Images/dashboard-overview.png)
-
----
 
 ## 3️⃣ Details Dashboard
 
@@ -111,11 +105,6 @@ The Details Dashboard provides transaction-level information for individual loan
 - Repayment Details
 - Page Navigation
 
-### Preview
-
-![Details Dashboard](Image/dashboard-details.png)
-
----
 
 # 📊 Data Model
 
