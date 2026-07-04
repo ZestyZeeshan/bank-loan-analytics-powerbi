@@ -171,7 +171,7 @@ A custom Date Table was created to implement the following DAX calculations:
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/yourusername/Bank-Loan-Analytics-PowerBI.git
+git clone https://github.com/ZestyZeeshan/bank-loan-analytics-powerbi.git
 ```
 
 2. Open the `.pbix` file using Power BI Desktop.
